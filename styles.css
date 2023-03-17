@@ -1,0 +1,85 @@
+body {
+  text-align: center;
+  background-image: url("images/wallpaper.jfif");
+  
+
+}
+
+h1 {
+  font-size: 70px;
+  color: #a3b2d7;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #c49fb0;
+  text-decoration: wavy;
+
+}
+h2{
+  font-size: 50px;
+  color: aliceblue;
+}
+footer {
+  color: #DBEDF3;
+  font-family: sans-serif;
+  font-size:50px;
+}
+
+.ntr30{
+background-image: url("images/NTR30.jfif");
+ 
+}
+
+.saaho {
+  background-image: url("images/saaho.jfif");
+}
+
+.pushpa {
+  background-image: url("images/pushpa.jfif");
+}
+
+.sir{
+  background-image: url("images/sir.jfif");
+}
+
+.master {
+  background-image: url("images/master.jfif");
+}
+.svp{
+  background-image: url("images/sarkar.jfif");
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.drum {
+  outline: none;
+  align-items: initial;
+  border: 10px solid #404B69;
+  font-size: 2rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 90;
+  color: #dccdd4;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+  text-align:center;
+  margin: 10px;
+  background-color: white;
+}
